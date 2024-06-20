@@ -1,6 +1,0 @@
-setup.py
-FlightRacePrediction.egg-info/PKG-INFO
-FlightRacePrediction.egg-info/SOURCES.txt
-FlightRacePrediction.egg-info/dependency_links.txt
-FlightRacePrediction.egg-info/requires.txt
-FlightRacePrediction.egg-info/top_level.txt
